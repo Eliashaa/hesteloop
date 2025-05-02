@@ -1,0 +1,111 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "playMusic",
+            "request": "launch",
+            "mainClass": "TDT4100_project/project.playMusic",
+            "projectName": "tdt4100_v2024_prosjekt_boilerplate"
+        },
+        {
+            "type": "java",
+            "name": "Game",
+            "request": "launch",
+            "mainClass": "TDT4100_project/project.Game",
+            "projectName": "tdt4100_v2024_prosjekt_boilerplate"
+        },
+        {
+            "type": "java",
+            "name": "Card",
+            "request": "launch",
+            "mainClass": "TDT4100_project/project.Card",
+            "projectName": "tdt4100_v2024_prosjekt_boilerplate"
+        },
+        {
+            "type": "java",
+            "name": "random",
+            "request": "launch",
+            "mainClass": "TDT4100_project/project.random",
+            "projectName": "tdt4100_v2024_prosjekt_boilerplate"
+        },
+        {
+            "type": "java",
+            "name": "Deck",
+            "request": "launch",
+            "mainClass": "TDT4100_project/project.Deck",
+            "projectName": "tdt4100_v2024_prosjekt_boilerplate"
+        },
+        {
+            "type": "java",
+            "name": "card",
+            "request": "launch",
+            "mainClass": "TDT4100_project/project.card",
+            "projectName": "tdt4100_v2024_prosjekt_boilerplate"
+        },
+        {
+            "type": "java",
+            "name": "deck",
+            "request": "launch",
+            "mainClass": "TDT4100_project/project.deck",
+            "projectName": "tdt4100_v2024_prosjekt_boilerplate"
+        },
+        {
+            "type": "java",
+            "name": "startMenuController",
+            "request": "launch",
+            "mainClass": "TDT4100_project/project.startMenuController",
+            "projectName": "tdt4100_v2024_prosjekt_boilerplate"
+        },
+        {
+            "type": "java",
+            "name": "spotifySearch",
+            "request": "launch",
+            "mainClass": "TDT4100_project/project.spotifySearch",
+            "projectName": "tdt4100_v2024_prosjekt_boilerplate"
+        },
+        {
+            "type": "java",
+            "name": "ProjectApp",
+            "request": "launch",
+            "mainClass": "project.ProjectApp"
+        },
+        {
+            "type": "java",
+            "name": "players",
+            "request": "launch",
+            "mainClass": "TDT4100_project/project.players",
+            "projectName": "tdt4100_v2024_prosjekt_boilerplate"
+        },
+        {
+            "type": "java",
+            "name": "ProjectController",
+            "request": "launch",
+            "mainClass": "TDT4100_project/project.ProjectController",
+            "projectName": "tdt4100_v2024_prosjekt_boilerplate"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ExampleProjectApp",
+            "request": "launch",
+            "mainClass": "TDT4100_project/exampleproject.ExampleProjectApp",
+            "projectName": "tdt4100_v2024_prosjekt_boilerplate"
+        },
+        {
+            "type": "java",
+            "name": "ProjectApp",
+            "request": "launch",
+            "mainClass": "TDT4100_project/project.ProjectApp",
+            "projectName": "tdt4100_v2024_prosjekt_boilerplate"
+        }
+    ]
+}
